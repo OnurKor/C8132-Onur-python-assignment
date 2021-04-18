@@ -10,7 +10,7 @@ Original file is located at
 name = "Onur"
 user = input("Please enter your name: ").title().strip()
 if name == user:
-  print("Hello, Harold! The password is : W@12")
+  print("Hello,     Onur! The password is : W@12")
 else:
   print(f"Hello, {user}! See you later.")
 
