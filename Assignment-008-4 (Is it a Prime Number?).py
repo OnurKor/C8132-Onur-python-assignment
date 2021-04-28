@@ -7,3 +7,4 @@ if (n == 0) or (n == 1) or (count >=3) :
     print(n, "is not a prime number.")
 else:
     print(n, "is a prime number")
+break
